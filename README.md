@@ -1,2 +1,3 @@
 # hello-world
-Juste another original repository
+Just another original repository
+Coding at night to develop my personal assistant. 
